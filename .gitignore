@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# TestNG reports
+test-output/
+
+# Eclipse configuration
+.settings/
+.classpath
+.project
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
